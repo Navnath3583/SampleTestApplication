@@ -1,0 +1,13 @@
+[ {
+				"date" : "2015-12-05",
+				"badge" : false,
+				"title" : "Example 1"
+			}, {
+				"date" : "2015-12-06",
+				"badge" : true,
+				"title" : "Example 2"
+			} ,{
+				"date" : "2015-12-09",
+				"badge" : true,
+				"title" : "Example 2"
+			}]
